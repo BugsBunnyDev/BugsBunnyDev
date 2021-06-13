@@ -1,16 +1,15 @@
-### Hi there 👋
+**Hello To My Github Account!**
 
-<!--
-**BugsBunnyDev/BugsBunnyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About
 
-Here are some ideas to get you started:
+I'm a C# and Lua developer that develops game cheats/exploits and other random projects. I am mostly prominent on the [WeAreDevs](https://wearedevs.net/forum) cheat forum. Feel free to look through my repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BugsBunnyDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugsBunnyDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact
+
+Discord: BugsBunnyDev 
+
+WeAreDevs: https://wearedevs.net/profile?uid=67730
